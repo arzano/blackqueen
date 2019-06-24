@@ -91,6 +91,8 @@ to start the UCI. Afterwards launch a GUI of your choice which supports the univ
 
 The engine has been evaluated using XY. In the following plot you can see the number of wins of BlackQueen in percent depending on the number of training steps. 
 
+<p align="center"><img src="https://raw.githubusercontent.com/mmagorsc/blackqueen/master/docs/results.png" width="600"></p>
+
 ## Contributing
 
 Contributions are welcome. You have an idea, suggestion for improvement or have found a bug? Just create an issue or send a pull request. 
