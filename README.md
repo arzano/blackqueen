@@ -3,8 +3,8 @@
 
 <p align="center">
 <a href="https://www.haskell.org/ghc/" ><img src="https://img.shields.io/badge/python-3.5%20%7C%203.6%20%7C%203.7-blue.svg"></a>
-<a href="https://travis-ci.org/mmagorsc/taskmonad"> <img src="https://api.travis-ci.org/mmagorsc/taskmonad.svg?branch=master"></a>
-<a href="https://codeclimate.com/github/mmagorsc/taskmonad"> <img src="https://api.codeclimate.com/v1/badges/e4de6996bf5bb710d0e7/maintainability"></a>
+<a href="https://travis-ci.org/mmagorsc/blackqueen"> <img src="https://travis-ci.org/mmagorsc/blackqueen.svg?branch=master"></a>
+<a href="https://codeclimate.com/github/mmagorsc/blackqueen/maintainability"><img src="https://api.codeclimate.com/v1/badges/716c832ef3bbf2ad0e42/maintainability" /></a>
 <a href="#contributing"> <img src="https://img.shields.io/badge/contributions-welcome-orange.svg"></a>
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 </p>
@@ -17,7 +17,7 @@ Therefor it can be trained using either an existing database of anti chess games
 
 ## Table Of Contents 
 
-- [Anti Chess](#anti-Chess)
+- [Loosing Chess](#loosing-chess)
 - [Installation](#installation)
 - [Training](#training)
 - [Usage](#usage)
@@ -27,7 +27,7 @@ Therefor it can be trained using either an existing database of anti chess games
 ## Loosing Chess
 
 According to _The Classified Encyclopedia of Chess Variants_ Loosing Chess (also known as Anti Chess) is one of the most popular chess variants. 
-The objective of the game is to loose all your chess pieces. In the following you can see an exemplary game of anti chess:
+The objective of the game is to loose all your chess pieces. In the following you can see an exemplary game of loosing chess:
 
 <p align="center"><img src="http://nele.xyz/antichess.gif" height="300" width="300"></p>
 
