@@ -16,6 +16,7 @@ setup(name='blackqueen',
           'pyperclip',
           'python-chess',
           'ujson',
-          'h5py'
+          'h5py',
+          'pytest'
       ],
       zip_safe=False)
