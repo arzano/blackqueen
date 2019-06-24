@@ -60,7 +60,7 @@ $ cd ../..
 Afterwards the supervised learning can be started using
 
 ``` shell
-$ python src/chess_zero/run.py sl
+$ python blackqueen/run.py sl
 ```
 
 ### Reinforcement Learning 
@@ -68,9 +68,9 @@ $ python src/chess_zero/run.py sl
 The reinforcement learning process consists of three workers: _self_, _opt_, _eval_. First of all the _self_ worker is used to generate training data by self-play. Afterwards the _opt_ worker is used to optimize i.e. train the model using the previously generated training data. Finally the _eval_ worker is used to eval whether the newly trained model is stronger as the last model. If so, the last model will be replaced by the new model. To do so just execute: 
 
 ``` shell
-python src/chess_zero/run.py self
-python src/chess_zero/run.py opt
-python src/chess_zero/run.py eval
+python blackqueen/run.py self
+python blackqueen/run.py opt
+python blackqueen/run.py eval
 ``` 
 
 ## Usage
@@ -78,7 +78,7 @@ python src/chess_zero/run.py eval
 The _Universal Chess Interface_ is implemented. Just execute 
 
 ``` shell
-python src/chess_zero/run.py uci
+python blackqueen/run.py uci
 ``` 
 
 to start the UCI. Afterwards launch a GUI of your choice which supports the universal chess interface. A few examples are: 
