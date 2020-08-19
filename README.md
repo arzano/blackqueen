@@ -1,5 +1,5 @@
-<p align="center"><img width=17.5% src="http://nele.xyz/net-3.png"></p>
-<p align="center"><img width=60% src="http://nele.xyz/black-queen-label.png"></p>
+<p align="center"><img width=17.5% src="https://raw.githubusercontent.com/arzano/blackqueen/master/docs/black-queen.png"></p>
+<p align="center"><img width=60% src="https://raw.githubusercontent.com/arzano/blackqueen/master/docs/black-queen-label.png"></p>
 
 <p align="center">
 <a href="https://www.haskell.org/ghc/" ><img src="https://img.shields.io/badge/python-3.5%20%7C%203.6%20%7C%203.7-blue.svg"></a>
@@ -29,7 +29,7 @@ Therefor it can be trained using either an existing database of anti chess games
 According to _The Classified Encyclopedia of Chess Variants_ Loosing Chess (also known as Anti Chess) is one of the most popular chess variants. 
 The objective of the game is to loose all your chess pieces. In the following you can see an exemplary game of loosing chess:
 
-<p align="center"><img src="http://nele.xyz/antichess.gif" height="300" width="300"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/arzano/blackqueen/master/docs/antichess.gif" height="300" width="300"></p>
 
 ## Installation
 
